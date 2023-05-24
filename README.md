@@ -17,7 +17,7 @@ O Kyu-AnimaRandom-Quest é uma aplicação em Java que tem como objetivo gerar n
 
 1. Clone o repositório em sua máquina local.
 
-- git clone https://github.com/seu-usuario/gerador-numeros-aleatorios.git
+- git clone [https://github.com/seu-usuario/gerador-numeros-aleatorios.git](https://github.com/KyuHayato/Kyu-AnimaRandom-Quest.git)
 
 
 2. Abra o projeto em sua IDE de preferência.
