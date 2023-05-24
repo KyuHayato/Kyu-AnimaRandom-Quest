@@ -16,7 +16,22 @@ O Kyu-AnimaRandom-Quest é uma aplicação em Java que tem como objetivo receber
 ## Instruções de Uso
 
 1. Clone o repositório em sua máquina local.
-git clone https://github.com/seu-usuario/verificador-idade.git
+
+[![Copiar link](git clone https://github.com/seu-usuario/verificador-idade.git)](javascript:copiarLink(); "Copiar link")
+
+<script>
+function copiarLink() {
+  const link = 'https://github.com/seu-usuario/seu-repositorio'; // Substitua pelo link do seu repositório
+  navigator.clipboard.writeText(link)
+    .then(() => {
+      alert('Link copiado com sucesso!');
+    })
+    .catch((error) => {
+      console.error('Erro ao copiar o link:', error);
+    });
+}
+</script>
+
 
 
 2. Abra o projeto em sua IDE de preferência.
